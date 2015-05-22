@@ -6,6 +6,6 @@ package fr.hervedarritchon.scala.kata.fizzbuzz
  */
 object FizzBuzz {
 
-  def start(number: Int) = ???
+  def start(number: Int) : String = ???
 
 }
